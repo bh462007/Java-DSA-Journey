@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Stack;
 
 class RemoveDuplicates {
     public String removeDuplicates(String s) {
