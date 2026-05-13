@@ -98,6 +98,16 @@ This repository contains well-structured implementations of core **Data Structur
 
 ---
 
+### #️⃣ Hashing
+- Introduction to Hashing  
+- Frequency Counting  
+- HashMap Basics in Java  
+- HashSet Basics in Java  
+- Key-Value Mapping  
+- Fast Lookup Operations  
+- Time Complexity of HashMap (`O(1)` average case)  
+---
+
 ## 🛠️ Approach
 
 ✔ Write logic before coding  
